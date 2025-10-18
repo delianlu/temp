@@ -113,7 +113,7 @@ The integration test suite consists of the following test cases designed to veri
 | testRemoveJobOfferFlow  | Test the flow of removing a job offer             | Execute the testRemoveJobOfferFlow test case in the integration test suite  | The selected job offer should be removed from the job offers list                                          | Implemented                                   | Pass      |
 | testShowJobRankedFlow   | Test the flow of creating the list of ranked jobs | Execute  testShowJobRankedFlow test case in the integration  test suite     | A correctly ranked list of jobs should be returned                                                         | Implemented (JobServiceRankingTest)           | Pass      |
 | testCompareJobsFlow     | Test the flow of comparing two given jobs         | Execute the testCompareJobsFlow in the integration test suite               | A list of JobComparisonData objects with the correct results should be returned for the two selected jobs. | Implemented                                   | Pass      |
-| tesSetPreferenceFlow    | Test the flow of setting/editing user preferences | Execute the testEditPreferenceFlow in the integration test suite            | User preferences weights should be set to the values provided by the user                                  | Implemented (PreferenceIntegrationTest)       | Pass      |
+| testSetPreferenceFlow    | Test the flow of setting/editing user preferences | Execute the testEditPreferenceFlow in the integration test suite            | User preferences weights should be set to the values provided by the user                                  | Implemented (PreferenceIntegrationTest)       | Pass      |
 
 
 ### System Tests
