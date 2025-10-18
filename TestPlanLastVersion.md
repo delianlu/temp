@@ -1,4 +1,6 @@
 Version 2 - 13/10/2025 - Updated technologies (JUnit + Robolectric + AndroidX Instrumentation) and marked implemented tests as Pass.
+Version 3 - 18/10/2025 - D4 final: Completed all test results. 80 automated tests + 7 system tests - all passing.
+
 # Test Plan
 
 **Author**: Team017
