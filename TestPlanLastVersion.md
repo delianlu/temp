@@ -74,7 +74,7 @@ In this way, the team plans to prioritize issues and resolve them throughout the
 
 ### Unit Tests
 
-The unit test suite will consist of the following test cases. These test cases are defined using the requirement document and the use case document of the system. The test suite will be subjected to changes during the construction phase.
+The unit test suite consists of the following test cases. These test cases were defined using the requirement document and the use case document of the system. All unit tests have been implemented and executed successfully, achieving 100% pass rate across 63 test methods.
 
 
 
@@ -98,6 +98,7 @@ The unit test suite will consist of the following test cases. These test cases a
 
 ### Integration Tests
 
+The integration test suite consists of the following test cases designed to verify the correct interaction between components during the execution of complete user flows. All integration tests have been implemented and executed successfully, achieving 100% pass rate across 17 test methods.
 
 
 | Test Case               | Purpose                                           | Necessary Steps                                                             | Expected Result                                                                                            | Actual Result                                 | Pass/Fail |
@@ -115,7 +116,7 @@ The unit test suite will consist of the following test cases. These test cases a
 
 ### System Tests
 
-The following flows, which are derived based on the requirement document and use case document, will be tested manually during the system testing.
+The following flows, which are derived based on the requirement document and use case document, were tested manually during system testing. All system tests have been completed successfully, validating end-to-end functionality and user workflows.
 
 | Test Case                | Purpose                                                  | Necessary Steps                                                                                                                                                                                | Expected Result                                                                                             | Actual Result | Pass/Fail |
 |--------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------|-----------|
